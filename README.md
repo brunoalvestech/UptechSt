@@ -3,7 +3,7 @@ UPTECH – Gestão de Tecnologia para Escolas Privadas
 A UPTECH é uma landing page de alta performance desenvolvida para apresentar soluções de gestão tecnológica e infraestrutura de TI especificamente para o setor educacional. O projeto foca em um design futurista com uma experiência de usuário (UX) fluida.
 
 Demonstração
-Você pode visualizar o projeto online aqui: [[Link para o seu GitHub Pages]](https://brunoalves-suporte.github.io/UptechSolucoesTecnologicas/#inicio)
+Você pode visualizar o projeto online aqui: [[Link para o seu GitHub Pages]](https://brunoalvestech.github.io/UptechSt/)
 
 Funcionalidades
 Design Futurista: Interface baseada em "Dark Mode" com elementos visuais modernos, como fundos em grid e efeitos de brilho (glow).
